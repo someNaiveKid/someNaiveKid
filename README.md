@@ -1,6 +1,6 @@
-## Hi there, I'm Josh.
-I'm a personal trainer, health coach, bookkeeper, and student.
-I'm learning about accounting, data analysis, Business Intelligence, AI, machine learning, health, yoga, behavior change, and human potential.
+## Hi there!
+I'm a personal trainer, health coach, yogi, bookkeeper, and student.
+I'm learning about accounting, data analysis, business intelligence, AI, machine learning, health, yoga, behavior change, and human potential.
 I like to meet new people!
 
 <!--
